@@ -1,12 +1,20 @@
 # Biostatistics 
+
 BSMS 222, Fall 2021
+
 Time: Monday (5) and Wednesday (5)
+
 Location: Offline and Online simultaneously (대면+비대면 실시간 강의)
 
+
 Lecturer
+
 Joon-Yong An, PhD
+
 Assistant Professor of Human Genetics
+
 School of Biosystem and Biomedical Science, College of Health Science
+
 
 ## 1. General Course Information
 
