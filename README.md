@@ -43,24 +43,33 @@ In addition, slides and materials will be posted on the Blackboard as these beco
 ### 4.1 Learning Activities
 Session 1 R 
 [Introduction & R/R studio and cloud](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+  
 [R basics](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
+  
 [Programming basics](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
+  
 [Tidyverse](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
 ### Session 2 Data viz
 [ggplot](https://docs.google.com/presentation/d/1EGhScgT-2l2O1UohW3Zo_Hp9-TF4f-lnh_L0slNmxaA/edit?usp=sharing)
+  
 [Distribution](https://docs.google.com/presentation/d/1x9fRYL5vqiDJyR1di8I0C4_YLd4gyMJ3rJf9O8YR3kw/edit?usp=sharing)
+  
 Data visualization in practice
+  
 Robust summaries 
 
 Mid exam
 
 Session 3 Data wrangling for human genomics
+RNA sequencing: Introduction
 RNA sequencing: Case Study
 
 Session 4 Programming for Statistics
 Principle component
+  
 Gene set enrichment test
+  
 Regression
 
 Final exam
