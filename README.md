@@ -101,9 +101,9 @@ Final exam
 
 ## 5. Assessment
   
-Assignments 20% - Literature review for biological data
+Assignments 20% - Literature review for real-world biological data
   
-Portfolio 20% - Analysis and Visualization of the biological dataset
+Portfolio 20% - Analysis and Visualization of real-world biological data
   
 Weekly Quiz & Participation 20% 
   
