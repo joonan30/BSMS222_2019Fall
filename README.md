@@ -63,7 +63,7 @@ In addition, slides and materials will be posted on the Blackboard as these beco
   
 #### Session 1 R 
   
-[Introduction](https://www.dropbox.com/s/ei1xhfoq7m4bd4g/Introduction.pptx?dl=0) [Introduction for Rstudio](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+[Introduction (Slide 1)](https://www.dropbox.com/s/ei1xhfoq7m4bd4g/Introduction.pptx?dl=0) [Introduction for Rstudio (Slide 2)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
   
 [R basics](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
   
