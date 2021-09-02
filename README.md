@@ -63,9 +63,13 @@ In addition, slides and materials will be posted on the Blackboard as these beco
   
 #### Session 1 R 
   
-[Introduction (Slide 1)](https://www.dropbox.com/s/ei1xhfoq7m4bd4g/Introduction.pptx?dl=0) [Introduction for Rstudio (Slide 2)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+[Introduction to biostatistics (week 1)](https://www.dropbox.com/s/ei1xhfoq7m4bd4g/Introduction.pptx?dl=0) 
   
-[R basics](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
+[Introduction to Rstudio (week 1)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+  
+[Introduction to R notebook and Github (week 2-1)](https://docs.google.com/presentation/d/1IFGp_IuLCVWeQy4hFVFdkU081LTB9SkJX4sfMO3ct8M/edit?usp=sharing)
+  
+[R basics (week 2-1)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
   
 [Programming basics](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
   
