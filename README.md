@@ -89,6 +89,8 @@ Mid exam
 
 #### Session 3 Data wrangling for human genomics
 
+Introduction to UNIX
+
 RNA sequencing: Introduction
   
 RNA sequencing: Case Study
