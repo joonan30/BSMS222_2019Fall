@@ -69,11 +69,11 @@ In addition, slides and materials will be posted on the Blackboard as these beco
   
 [Introduction to R notebook and Github (week 2-1)](https://docs.google.com/presentation/d/1IFGp_IuLCVWeQy4hFVFdkU081LTB9SkJX4sfMO3ct8M/edit?usp=sharing)
   
-[R basics (week 2-1)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
+[R basics (week 2-2)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
   
-[Programming basics](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
+[Programming basics (week 3-1)](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
   
-[Tidyverse](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
+[Tidyverse (week 3-2 & 5-1)](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
 #### Session 2 Data viz
   
