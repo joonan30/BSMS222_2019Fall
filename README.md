@@ -1,6 +1,6 @@
 # Biostatistics 
 
-BSMS 222, Fall 2021
+BSMS 222, Fall
 
 Time: Monday (5) and Wednesday (5)
 
@@ -33,19 +33,20 @@ This class contains hands-on coding exercise in every lecture, so please bring y
 
 ### 2.1 Course Aims
 
-The aim of this course is to familiarise students with the discipline of biostatistics and basic analytic skills. Students will develop an appreciation of modern application in biostatistics while gaining a detailed understanding of the analytic fundamentals from data modality to programming language. Over the semester, students will be placed into hardcore training in programming exercise. We are learning R, UNIX, python, a programming language and free software environment for statistical computing and graphics. 
+The aim of this course is to familiarize students with the discipline of biostatistics and basic analytic skills. Students will develop an appreciation of modern application in biostatistics while gaining a detailed understanding of the analytic fundamentals from data modality to programming language. Over the semester, students will be placed into hardcore training in programming exercise. We are learning R and UNIX for statistical computing and graphics. 
+
 
 ### 2.2 Learning Objectives
-
 After successfully completing this course you should be able to:
 
-1  Understand the basic programming skill sets for biostatistics.
+1. Understand the basic programming for statistical analysis in genomic data
 
-2  Become confident in using R and Linux for genomics analyses.
+2. Understand the basic concepts for modern genomic research
 
-3  Gain hand-on experience in data visualization.
+3. Become confident in using R for genomics analyses
 
-4  Gain hand-on experience in data handling and wrangling. 
+4. Gain hand-on experience in data visualization and wrangling
+
 
 ## 3. Learning Resources
 
@@ -55,7 +56,8 @@ https://rafalab.github.io/dsbook/
 Computational Genomics with R by Altuna Akalin, 2020
 https://compgenomr.github.io/book/ 
 
-In addition, slides and materials will be posted on the Blackboard as these become available.
+Bioinformatics Workshop Gitbook by Juan C. Santos & Randy Ortiz, 2022
+https://corytophanes.github.io/BIO_BIT_Bioinformatics_209/getting-started-with-r.html 
 
 
 ## 4. Teaching & Learning Activities
@@ -85,35 +87,16 @@ Data visualization in practice
   
 Robust summaries 
 
-Mid exam
 
-#### Session 3 Data wrangling for human genomics
+#### Session 3. Data modality and experimental design
 
-Introduction to UNIX
-
-RNA sequencing: Introduction
-  
 RNA sequencing: Case Study
 
-#### Session 4 Programming for Statistics
-  
-Principle component
-  
-Gene set enrichment test
-  
-Regression
+Multi Omics: Case Study
 
-Final exam
+UNIX
 
-## 5. Assessment
-  
-Assignments 20% - Literature review for real-world biological data
-  
-Portfolio 20% - Analysis and Visualization of real-world biological data
-  
-Weekly Quiz & Participation 20% 
-  
-Mid term exam 20% and Final exam 20%
+
 
 
 
