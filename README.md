@@ -65,7 +65,7 @@ https://corytophanes.github.io/BIO_BIT_Bioinformatics_209/getting-started-with-r
   
 #### Session 1 R 
   
-[Introduction to biostatistics (week 1)](https://www.dropbox.com/s/ei1xhfoq7m4bd4g/Introduction.pptx?dl=0) 
+[Introduction to biostatistics (week 1)](https://www.dropbox.com/s/cn517by1hhc9c3x/Introduction.pptx?dl=0) 
   
 [Introduction to Rstudio (week 1)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
   
