@@ -65,15 +65,13 @@ https://corytophanes.github.io/BIO_BIT_Bioinformatics_209/getting-started-with-r
   
 #### Session 1 R 
   
-[Introduction to biostatistics (week 1)](https://www.dropbox.com/s/cn517by1hhc9c3x/Introduction.pptx?dl=0) 
+[Introduction to biostatistics (week 1-1)](https://www.dropbox.com/s/cn517by1hhc9c3x/Introduction.pptx?dl=0) 
   
-[Introduction to Rstudio (week 1)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
+[Introduction to Rstudio (week 1-1)](https://docs.google.com/presentation/d/1io0lPt04rNdfhjfUWTTEyVHZfQqy-3IcSZn0_xB7ys8/edit?usp=sharing)
   
-[Introduction to R notebook and Github (week 2-1)](https://docs.google.com/presentation/d/1IFGp_IuLCVWeQy4hFVFdkU081LTB9SkJX4sfMO3ct8M/edit?usp=sharing)
+[R basics (week 1-2)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
   
-[R basics (week 2-2)](https://docs.google.com/presentation/d/1itIg6Thp6sn6Saaw3rQNl07XppmqAUtsGwhLSCHnl8I/edit?usp=sharing)
-  
-[Programming basics (week 3-1)](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
+[Programming basics (week 2-1)](https://docs.google.com/presentation/d/1kGtbLJxBNW-MZMkpgzAwo6vBumdi2RQU2rQypZMfl-I/edit?usp=sharing)
   
 [Tidyverse (week 3-2 & 5-1)](https://docs.google.com/presentation/d/19xiT-7wL7UKr9IT82wd9kpgmRUbli6D8UFAyNbob6-k/edit?usp=sharing)
 
