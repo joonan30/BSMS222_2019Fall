@@ -92,7 +92,11 @@ RNA sequencing: Case Study
 
 Multi Omics: Case Study
 
-UNIX
+[UNIX](https://www.dropbox.com/scl/fi/v3rboca0riwe8l5bkh4ki/UNIX_basics.pptx?rlkey=kmo00s3aeze8wxwy2lpmblj5w&dl=0)
+
+[김준 교수님 튜토리얼](https://github.com/JunKimCNU/JunKimLabTutorial)
+
+[유닉스 튜토리얼](https://raw.githubusercontent.com/JunKimCNU/JunKimLabTutorial/refs/heads/main/task01_linux_tutorial/treasureHunt_v2_kor.pl)
 
 
 
